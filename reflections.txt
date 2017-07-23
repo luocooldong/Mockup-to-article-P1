@@ -3,19 +3,4 @@ You've learned a lot about web development so far. I want you to take a moment t
   * What has been easy?
   * What has been difficult?
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
-
----
-1.
-   通过了这一段时间的学习，是自己对于Html技术有了更深一层的理解了。
-   懂得一些元素和标签，并用他们可以创建一些精美的布局，其中运用了标题大小属性<h1>，
-   超链接<a href = ""></a>，图片<img src= "">，文字加粗<strong></strong>，删除线<strike></strike>，
-   <p>元素标签</p>， <div>块标签<div>
-   等等这些之外还有，父节点和子节点，相对路径和绝对路径
-2. 由于以前自己也学习过一些简单的html知识，所以相对也有有一些基础，但是对于有的元素标签属性并没有系统的用过
-   <html></html> , <head></head>, <body></body>, <title></titile> ,<h1></h1>,<p></p>  这些较为熟悉
-3. 难一点的有<img  src = ""> , <a href = ""></a>, <strong></strong>, <strike></strike>,<hr />
-4, 通过对于第一个项目的练习，感觉自己学得了很多，以前对于一些知识只是停留在了表面，认为看看就会了，
-   可是并没有进行细致的实践操作，所以往往记得不是很深，可是这次却很不一样，在优达网站上的实践项目，
-   真的增强了自己的动手能力。我希望以后会越做越好。
-
 Your response goes here!
